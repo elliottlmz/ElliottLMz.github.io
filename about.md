@@ -8,8 +8,8 @@ isContent: true
 # About Me
 
 Hello, I'm Eleanor (formerly Elliott). I'm a teenager from North London with an interest in law, psychology, business
-and operations, politics, railways, electronics, technology, programming, and video games. I'm currently finishing up my
-GCSEs in Sociology, Psychology, Business Studies, and History with a predicted 6, 7, 8, 5, 5, 5, 4, 6.
+and operations, politics, railways, electronics, technology, programming, and video games. I completed my GCSEs in Summer 2021
+and left with one 8, two 6s, one 5, four 4s.
 
 Most of my technical work is in JavaScript and Luau (Roblox's fork of Lua 5.1); languages that I am proficient in. I am
 confident in Web Development, and have worked with [Nuxt](https://nuxtjs.org)/[Vue](https://vuejs.org) and [SCSS](https://sass-lang.com/)
